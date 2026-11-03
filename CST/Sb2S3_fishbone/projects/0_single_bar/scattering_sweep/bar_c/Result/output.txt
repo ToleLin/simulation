@@ -1,0 +1,49 @@
+_______________________________________________________________________________________________________________________
+    Message output from A:\CST\sb2s3_fishbone\single_bar\bar_c
+    Build: 2024.1 Release from 2023-10-16 (change 1181985)
+_______________________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________________
+Defined reference frequency for open boundary condition (149.9 THz) is larger than the lowest relevant system frequency (monitor at 149.896 THz).
+Please check the Settings for PML Boundary (Simulation > Settings > Boundary Conditions > Open Boundary) to ensure accurate monitor results for the lowest frequency of interest. <a href="2104;2345.htm">More...</a>
+_______________________________________________________________________________________________________________________
+The power loss curve (1D) will be computed using some subvolume electric 3D field monitors. Only the losses in the corresponding volume will be taken into account.
+_______________________________________________________________________________________________________________________
+CAD processing via DLL
+_______________________________________________________________________________________________________________________
+CAD Processing Version Info
+	ACIS version installed:	33.0.1
+	ACIS version used:	33.0.1
+_______________________________________________________________________________________________________________________
+Matrix computation (PBA)
+	[Perfect Boundary Approximation (PBA), version: default]
+	[GPU acceleration: off (by user)]
+<a href="1486;2378.htm">More...</a>
+_______________________________________________________________________________________________________________________
+Geometry representation: compact
+_______________________________________________________________________________________________________________________
+WARNING:
+When exciting with a plane wave the material at the open boundaries has to be homogeneous.
+_______________________________________________________________________________________________________________________
+WARNING:
+Dispersive materials are not supported at open boundary. This may lead to inaccurate results. Locations(s): xmin xmax ymin ymax
+_______________________________________________________________________________________________________________________
+Solver Settings:
+Plane wave excitation 
+[Frequency domain results normalized to default signal]
+Excitation duration: 4.74256004e+001 fs 
+Steady state accuracy limit: -40 dB 
+Maximum number of time steps: 101352 
+Time step width:
+     without subcycles: 9.358577069e-003 fs
+     used: 9.358577069e-003 fs
+Number of threads used: 6
+_______________________________________________________________________________________________________________________
+Steady state energy criterion met, solver finished successfully.
+_______________________________________________________________________________________________________________________
+Successfully finished Secondary Quantity Evaluation.
+_______________________________________________________________________________________________________________________
+Creating parametric 1D results for Run ID 2
+_______________________________________________________________________________________________________________________
+WARNING:
+2 warnings occurred.

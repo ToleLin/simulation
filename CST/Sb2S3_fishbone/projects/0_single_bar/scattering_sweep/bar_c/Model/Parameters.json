@@ -1,0 +1,30 @@
+{
+    "parameters": [
+        {
+            "expr": "0.6",
+            "name": "L",
+            "value": "0.6"
+        },
+        {
+            "expr": "0.24",
+            "name": "W",
+            "value": "0.24"
+        },
+        {
+            "expr": "0.2",
+            "name": "T",
+            "value": "0.2"
+        },
+        {
+            "expr": "0",
+            "name": "pol_x",
+            "value": "0"
+        },
+        {
+            "expr": "1",
+            "name": "pol_y",
+            "value": "1"
+        }
+    ],
+    "version": 1
+}
