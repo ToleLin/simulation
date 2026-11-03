@@ -1,0 +1,1850 @@
+*** File Version: 21.00
+
+Number of ports: 0
+Portnames:
+Modenumbers:
+Porttypes:
+Portlabels:
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+SchematicPortNames:
+SchematicPortLabels:
+Terminals:
+StaticToReferenceTable:
+ThermalToReferenceTable:
+TerminalToReferenceTable:
+PortToReferenceTable:
+FloquetToReferenceTable:
+SchematicToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+SchematicPortSourceGroups:
+Number of frequency-points: 0
+Fmin: 1.499000e+14
+Fmax: 2.998000e+14
+Fscale: 1.000000e+12
+
+
+
+
+
+*** newmonitor
+monname: "Enf_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_2.000"
+nmonfrequencies: 1
+monfrequencies: "149.89622900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_2.000"
+nmonfrequencies: 1
+monfrequencies: "149.89622900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_2.000"
+nmonfrequencies: 1
+monfrequencies: "149.89622900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_2.000"
+nmonfrequencies: 1
+monfrequencies: "149.89622900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.975"
+nmonfrequencies: 1
+monfrequencies: "151.79365000000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.975"
+nmonfrequencies: 1
+monfrequencies: "151.79365000000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.975"
+nmonfrequencies: 1
+monfrequencies: "151.79365000000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.975"
+nmonfrequencies: 1
+monfrequencies: "151.79365000000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.950"
+nmonfrequencies: 1
+monfrequencies: "153.739722" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.950"
+nmonfrequencies: 1
+monfrequencies: "153.739722" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.950"
+nmonfrequencies: 1
+monfrequencies: "153.739722" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.950"
+nmonfrequencies: 1
+monfrequencies: "153.739722" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.925"
+nmonfrequencies: 1
+monfrequencies: "155.73634200000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.925"
+nmonfrequencies: 1
+monfrequencies: "155.73634200000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.925"
+nmonfrequencies: 1
+monfrequencies: "155.73634200000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.925"
+nmonfrequencies: 1
+monfrequencies: "155.73634200000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.900"
+nmonfrequencies: 1
+monfrequencies: "157.785504" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.900"
+nmonfrequencies: 1
+monfrequencies: "157.785504" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.900"
+nmonfrequencies: 1
+monfrequencies: "157.785504" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.900"
+nmonfrequencies: 1
+monfrequencies: "157.785504" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.875"
+nmonfrequencies: 1
+monfrequencies: "159.88931099999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.875"
+nmonfrequencies: 1
+monfrequencies: "159.88931099999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.875"
+nmonfrequencies: 1
+monfrequencies: "159.88931099999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.875"
+nmonfrequencies: 1
+monfrequencies: "159.88931099999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.850"
+nmonfrequencies: 1
+monfrequencies: "162.04997700000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.850"
+nmonfrequencies: 1
+monfrequencies: "162.04997700000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.850"
+nmonfrequencies: 1
+monfrequencies: "162.04997700000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.850"
+nmonfrequencies: 1
+monfrequencies: "162.04997700000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.825"
+nmonfrequencies: 1
+monfrequencies: "164.26983999999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.825"
+nmonfrequencies: 1
+monfrequencies: "164.26983999999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.825"
+nmonfrequencies: 1
+monfrequencies: "164.26983999999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.825"
+nmonfrequencies: 1
+monfrequencies: "164.26983999999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.800"
+nmonfrequencies: 1
+monfrequencies: "166.551366" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.800"
+nmonfrequencies: 1
+monfrequencies: "166.551366" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.800"
+nmonfrequencies: 1
+monfrequencies: "166.551366" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.800"
+nmonfrequencies: 1
+monfrequencies: "166.551366" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.775"
+nmonfrequencies: 1
+monfrequencies: "168.89715899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.775"
+nmonfrequencies: 1
+monfrequencies: "168.89715899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.775"
+nmonfrequencies: 1
+monfrequencies: "168.89715899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.775"
+nmonfrequencies: 1
+monfrequencies: "168.89715899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.750"
+nmonfrequencies: 1
+monfrequencies: "171.30997600000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.750"
+nmonfrequencies: 1
+monfrequencies: "171.30997600000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.750"
+nmonfrequencies: 1
+monfrequencies: "171.30997600000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.750"
+nmonfrequencies: 1
+monfrequencies: "171.30997600000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.725"
+nmonfrequencies: 1
+monfrequencies: "173.79272900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.725"
+nmonfrequencies: 1
+monfrequencies: "173.79272900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.725"
+nmonfrequencies: 1
+monfrequencies: "173.79272900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.725"
+nmonfrequencies: 1
+monfrequencies: "173.79272900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.700"
+nmonfrequencies: 1
+monfrequencies: "176.34850499999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.700"
+nmonfrequencies: 1
+monfrequencies: "176.34850499999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.700"
+nmonfrequencies: 1
+monfrequencies: "176.34850499999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.700"
+nmonfrequencies: 1
+monfrequencies: "176.34850499999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.675"
+nmonfrequencies: 1
+monfrequencies: "178.980572" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.675"
+nmonfrequencies: 1
+monfrequencies: "178.980572" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.675"
+nmonfrequencies: 1
+monfrequencies: "178.980572" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.675"
+nmonfrequencies: 1
+monfrequencies: "178.980572" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.650"
+nmonfrequencies: 1
+monfrequencies: "181.69239899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.650"
+nmonfrequencies: 1
+monfrequencies: "181.69239899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.650"
+nmonfrequencies: 1
+monfrequencies: "181.69239899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.650"
+nmonfrequencies: 1
+monfrequencies: "181.69239899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.625"
+nmonfrequencies: 1
+monfrequencies: "184.48766599999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.625"
+nmonfrequencies: 1
+monfrequencies: "184.48766599999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.625"
+nmonfrequencies: 1
+monfrequencies: "184.48766599999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.625"
+nmonfrequencies: 1
+monfrequencies: "184.48766599999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.600"
+nmonfrequencies: 1
+monfrequencies: "187.37028599999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.600"
+nmonfrequencies: 1
+monfrequencies: "187.37028599999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.600"
+nmonfrequencies: 1
+monfrequencies: "187.37028599999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.600"
+nmonfrequencies: 1
+monfrequencies: "187.37028599999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.575"
+nmonfrequencies: 1
+monfrequencies: "190.34441799999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.575"
+nmonfrequencies: 1
+monfrequencies: "190.34441799999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.575"
+nmonfrequencies: 1
+monfrequencies: "190.34441799999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.575"
+nmonfrequencies: 1
+monfrequencies: "190.34441799999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.525"
+nmonfrequencies: 1
+monfrequencies: "196.585218" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.525"
+nmonfrequencies: 1
+monfrequencies: "196.585218" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.525"
+nmonfrequencies: 1
+monfrequencies: "196.585218" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.525"
+nmonfrequencies: 1
+monfrequencies: "196.585218" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.500"
+nmonfrequencies: 1
+monfrequencies: "199.861639" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.500"
+nmonfrequencies: 1
+monfrequencies: "199.861639" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.500"
+nmonfrequencies: 1
+monfrequencies: "199.861639" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.500"
+nmonfrequencies: 1
+monfrequencies: "199.861639" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.475"
+nmonfrequencies: 1
+monfrequencies: "203.24912399999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.475"
+nmonfrequencies: 1
+monfrequencies: "203.24912399999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.475"
+nmonfrequencies: 1
+monfrequencies: "203.24912399999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.475"
+nmonfrequencies: 1
+monfrequencies: "203.24912399999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.450"
+nmonfrequencies: 1
+monfrequencies: "206.75341900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.450"
+nmonfrequencies: 1
+monfrequencies: "206.75341900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.450"
+nmonfrequencies: 1
+monfrequencies: "206.75341900000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.450"
+nmonfrequencies: 1
+monfrequencies: "206.75341900000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.425"
+nmonfrequencies: 1
+monfrequencies: "210.380672" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.425"
+nmonfrequencies: 1
+monfrequencies: "210.380672" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.425"
+nmonfrequencies: 1
+monfrequencies: "210.380672" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.425"
+nmonfrequencies: 1
+monfrequencies: "210.380672" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.400"
+nmonfrequencies: 1
+monfrequencies: "214.13747000000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.400"
+nmonfrequencies: 1
+monfrequencies: "214.13747000000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.400"
+nmonfrequencies: 1
+monfrequencies: "214.13747000000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.400"
+nmonfrequencies: 1
+monfrequencies: "214.13747000000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.375"
+nmonfrequencies: 1
+monfrequencies: "218.030879" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.375"
+nmonfrequencies: 1
+monfrequencies: "218.030879" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.375"
+nmonfrequencies: 1
+monfrequencies: "218.030879" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.375"
+nmonfrequencies: 1
+monfrequencies: "218.030879" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.350"
+nmonfrequencies: 1
+monfrequencies: "222.068487" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.350"
+nmonfrequencies: 1
+monfrequencies: "222.068487" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.350"
+nmonfrequencies: 1
+monfrequencies: "222.068487" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.350"
+nmonfrequencies: 1
+monfrequencies: "222.068487" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.325"
+nmonfrequencies: 1
+monfrequencies: "226.25845899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.325"
+nmonfrequencies: 1
+monfrequencies: "226.25845899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.325"
+nmonfrequencies: 1
+monfrequencies: "226.25845899999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.325"
+nmonfrequencies: 1
+monfrequencies: "226.25845899999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.300"
+nmonfrequencies: 1
+monfrequencies: "230.60958299999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.300"
+nmonfrequencies: 1
+monfrequencies: "230.60958299999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.300"
+nmonfrequencies: 1
+monfrequencies: "230.60958299999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.300"
+nmonfrequencies: 1
+monfrequencies: "230.60958299999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.275"
+nmonfrequencies: 1
+monfrequencies: "235.13133999999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.275"
+nmonfrequencies: 1
+monfrequencies: "235.13133999999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.275"
+nmonfrequencies: 1
+monfrequencies: "235.13133999999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.275"
+nmonfrequencies: 1
+monfrequencies: "235.13133999999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.250"
+nmonfrequencies: 1
+monfrequencies: "239.833966" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.250"
+nmonfrequencies: 1
+monfrequencies: "239.833966" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.250"
+nmonfrequencies: 1
+monfrequencies: "239.833966" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.250"
+nmonfrequencies: 1
+monfrequencies: "239.833966" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.225"
+nmonfrequencies: 1
+monfrequencies: "244.72853699999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.225"
+nmonfrequencies: 1
+monfrequencies: "244.72853699999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.225"
+nmonfrequencies: 1
+monfrequencies: "244.72853699999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.225"
+nmonfrequencies: 1
+monfrequencies: "244.72853699999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.200"
+nmonfrequencies: 1
+monfrequencies: "249.82704799999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.200"
+nmonfrequencies: 1
+monfrequencies: "249.82704799999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.200"
+nmonfrequencies: 1
+monfrequencies: "249.82704799999999" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.200"
+nmonfrequencies: 1
+monfrequencies: "249.82704799999999" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.175"
+nmonfrequencies: 1
+monfrequencies: "255.142517" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.175"
+nmonfrequencies: 1
+monfrequencies: "255.142517" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.175"
+nmonfrequencies: 1
+monfrequencies: "255.142517" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.175"
+nmonfrequencies: 1
+monfrequencies: "255.142517" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.150"
+nmonfrequencies: 1
+monfrequencies: "260.68909400000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.150"
+nmonfrequencies: 1
+monfrequencies: "260.68909400000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.150"
+nmonfrequencies: 1
+monfrequencies: "260.68909400000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.150"
+nmonfrequencies: 1
+monfrequencies: "260.68909400000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.125"
+nmonfrequencies: 1
+monfrequencies: "266.48218500000002" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.125"
+nmonfrequencies: 1
+monfrequencies: "266.48218500000002" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.125"
+nmonfrequencies: 1
+monfrequencies: "266.48218500000002" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.125"
+nmonfrequencies: 1
+monfrequencies: "266.48218500000002" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.100"
+nmonfrequencies: 1
+monfrequencies: "272.53859799999998" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.100"
+nmonfrequencies: 1
+monfrequencies: "272.53859799999998" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.100"
+nmonfrequencies: 1
+monfrequencies: "272.53859799999998" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.100"
+nmonfrequencies: 1
+monfrequencies: "272.53859799999998" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.075"
+nmonfrequencies: 1
+monfrequencies: "278.87670500000002" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.075"
+nmonfrequencies: 1
+monfrequencies: "278.87670500000002" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.075"
+nmonfrequencies: 1
+monfrequencies: "278.87670500000002" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.075"
+nmonfrequencies: 1
+monfrequencies: "278.87670500000002" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.050"
+nmonfrequencies: 1
+monfrequencies: "285.51662700000003" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.050"
+nmonfrequencies: 1
+monfrequencies: "285.51662700000003" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.050"
+nmonfrequencies: 1
+monfrequencies: "285.51662700000003" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.050"
+nmonfrequencies: 1
+monfrequencies: "285.51662700000003" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.025"
+nmonfrequencies: 1
+monfrequencies: "292.48044700000003" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.025"
+nmonfrequencies: 1
+monfrequencies: "292.48044700000003" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.025"
+nmonfrequencies: 1
+monfrequencies: "292.48044700000003" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.025"
+nmonfrequencies: 1
+monfrequencies: "292.48044700000003" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hm_1.000"
+nmonfrequencies: 1
+monfrequencies: "299.79245800000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Em_1.000"
+nmonfrequencies: 1
+monfrequencies: "299.79245800000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Hp_1.000"
+nmonfrequencies: 1
+monfrequencies: "299.79245800000001" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "Ep_1.000"
+nmonfrequencies: 1
+monfrequencies: "299.79245800000001" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

@@ -1,0 +1,17 @@
+=========================================
+== CST Matrix Calculation Priority Log ==
+=========================================
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Group | Shape-ID | ShapeName | Material | User-priority | 2D/3D-Geometry | Material-attributes | Shape-attributes | Feature-ID | Schemetype
+1 | 5 | </cst/Boundaries/> Low^X | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+1 | 6 | </cst/Boundaries/> Low^Y | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+1 | 7 | </cst/Boundaries/> Low^Z | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+1 | 8 | </cst/Boundaries/> Up^X | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+1 | 9 | </cst/Boundaries/> Up^Y | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+1 | 10 | </cst/Boundaries/> Up^Z | $NFSMaterial$ | n/a | no | normal.vacuum. | boundary. | n/a | FIT_TD
+2 | 1 | bars:bar | Sb2S3_a | n/a | yes | dispersive-mue.normal. | solid. | n/a | FIT_TD
+2 | 2 | film:Au | Au_JC_Drude | n/a | yes | dispersive-mue.normal. | solid. | n/a | FIT_TD
+2 | 3 | film:SiO2 | SiO2_n1444 | n/a | yes | normal. | solid. | n/a | FIT_TD
+2 | 4 | meshbox:box | Vacuum | n/a | yes | normal.vacuum. | solid. | n/a | FIT_TD
+=========================================

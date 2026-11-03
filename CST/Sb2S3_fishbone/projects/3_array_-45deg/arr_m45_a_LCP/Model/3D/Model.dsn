@@ -1,0 +1,46 @@
+*** File Version: 21.00
+
+Number of ports: 0
+Portnames:
+Modenumbers:
+Porttypes:
+Portlabels:
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+SchematicPortNames:
+SchematicPortLabels:
+Terminals:
+StaticToReferenceTable:
+ThermalToReferenceTable:
+TerminalToReferenceTable:
+PortToReferenceTable:
+FloquetToReferenceTable:
+SchematicToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+SchematicPortSourceGroups:
+Number of frequency-points: 0
+Fmin: 1.499000e+14
+Fmax: 2.998000e+14
+Fscale: 1.000000e+12
+
+
+
+
+
+*** newmonitor
+monname: "Enf_1.550"
+nmonfrequencies: 1
+monfrequencies: "193.414489" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

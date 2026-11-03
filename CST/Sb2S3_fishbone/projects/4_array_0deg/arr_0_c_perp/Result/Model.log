@@ -1,0 +1,170 @@
+2026-10-28 06:23:04   Defined reference frequency for open boundary condition (149.9 THz) is larger
+                      than the lowest relevant system frequency (monitor at 149.896 THz).
+                      Please check the Settings for PML Boundary (Simulation > Settings > Boundary
+                      Conditions > Open Boundary) to ensure accurate monitor results for the lowest
+                      frequency of interest. More...
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   The power loss curve (1D) will be computed using some subvolume electric 3D
+                      field monitors. Only the losses in the corresponding volume will be taken into
+                      account.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   
+                      Solver started at: 2026-10-28 06:23:04 +0800
+
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2024.1 Release from 2023-10-16 (change 1181985)
+
+2026-10-28 06:23:04   
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   ======================================================================
+                       Plane wave stimulation
+                      ======================================================================
+
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   Units settings: 
+
+                        Dimensions: um
+                        Frequency:  THz
+                        Time:       fs
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:23:04   The dispersive material update [Automatic] will be performed using the "Generalized" update schema
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:25:55   Mesh statistics:
+
+                         Hexahedral mesh type: Perfect Boundary Approximation (PBA)
+                            Version: default
+
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 4
+                            Number of calculation domains used: 12
+
+                         Used point accuracy enhancement value: 0.00%.
+                         Acceleration mode: CPU
+                         PBA fill limit: 85.00% (inverse)
+2026-10-28 06:24:27      current system memory usage reached 80%
+2026-10-28 06:23:54      current system memory usage reached 80%
+2026-10-28 06:23:41      current system memory usage reached 80%
+2026-10-28 06:23:57      current system memory usage reached 80%
+2026-10-28 06:23:55      current system memory usage reached 80%
+2026-10-28 06:23:51      current system memory usage reached 80%
+2026-10-28 06:24:35      current system memory usage reached 80%
+
+2026-10-28 06:24:08      *** Warning ***  current system memory usage reached 85% (14 GB)
+
+
+2026-10-28 06:26:12   Boundary conditions: 
+
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+
+                        Xmin: open, 4 Layer, depth 0.199643 um
+                        Xmax: open, 4 Layer, depth 0.199657 um
+
+                        Ymin: periodic
+                        Ymax: periodic
+
+                        Zmin: open, 4 Layer, depth 0.2 um
+                        Zmax: expanded open, 4 Layer, depth 0.198717 um
+
+                        PML-Type: Convolution PML
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:26:12   Frequency settings: 
+
+                        Fmin:         149.9
+                        Fmax:         299.8
+                        Nfsteps(lin): 1001
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:26:12   *** Warning ***
+
+2026-10-28 06:26:12   When exciting with a plane wave the material at the open boundaries has to be homogeneous.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:26:12   Field update statistics:
+
+                        Number of components in total: 	55433018
+                        Number of disp. elements:		2382997
+
+                      Subcycling state:      			Automatically deactivated
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:26:13   *** Warning ***
+
+2026-10-28 06:26:13   Dispersive materials are not supported at open boundary. This may lead to inaccurate results. Locations(s): xmin xmax
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:24   
+                      --------------------------------------------------------------------------------
+2026-10-28 06:42:24   Steady state energy criterion met, solver finished successfully.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:24   Frequency domain results normalized to default signal.
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:24   
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     16824                         4535224      4535224      
+                        Matrices calc.      1641406                       4516601      2789062      
+                        Solver run total    2405164                       4557896      2834732      
+                        ----------------------------------------------------------------------------
+
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+
+                        Hardware:
+                           Computer name:                 	Tole 
+
+                           Number of CPU threads:               6
+                           Hardware info:                  	Hardware Accelerator Device not activated
+
+                        Number of mesh cells:             	9154080
+                        Excitation duration:              	4.74256004e+001 fs 
+                        Calculation time for excitation:  	0 	s
+                        Number of calculated pulse widths:	2.63489 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	11526 
+                        Maximum number of time steps:     	87487 
+                        Time step width:
+                           without subcycles:             	1.084167070e-002 fs
+                           used:                          	1.084167070e-002 fs
+
+                        CAD preparation time:             	0      	s
+                        Matrix calculation time:          	171 	s
+                        Solver setup time:                	20 	s
+                        Solver loop time:                 	905 	s
+                        Solver post-processing time:      	62 	s
+                                                          	------------
+                        Total solver time:                	1158 	s  ( = 0 h, 19 m, 18 s )
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:24   
+                        Total solver time (all cycles):      	1158   	s  ( = 0 h, 19 m, 18 s )
+                        Solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	1160   	s  ( = 0 h, 19 m, 20 s )
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:24   Solver finished at: 2026-10-28 06:42:24 +0800
+
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:42:25   Creating parametric 1D results for Run ID 1
+
+                      ------------------------------------------------------------------------------

@@ -1,0 +1,162 @@
+2026-10-28 05:43:46   The power loss curve (1D) will be computed using some subvolume electric 3D
+                      field monitors. Only the losses in the corresponding volume will be taken into
+                      account.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:43:47   
+                      Solver started at: 2026-10-28 05:43:47 +0800
+
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2024.1 Release from 2023-10-16 (change 1181985)
+
+2026-10-28 05:43:47   
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:43:47   
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:43:47   ======================================================================
+                       Plane wave stimulation
+                      ======================================================================
+
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:43:47   Units settings: 
+
+                        Dimensions: um
+                        Frequency:  THz
+                        Time:       fs
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:43:47   The dispersive material update [Automatic] will be performed using the "Generalized" update schema
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:46:36   Mesh statistics:
+
+                         Hexahedral mesh type: Perfect Boundary Approximation (PBA)
+                            Version: default
+
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 4
+                            Number of calculation domains used: 12
+
+                         Used point accuracy enhancement value: 0.00%.
+                         Acceleration mode: CPU
+                         PBA fill limit: 85.00% (inverse)
+2026-10-28 05:45:09      current system memory usage reached 80%
+2026-10-28 05:44:36      current system memory usage reached 80%
+2026-10-28 05:44:39      current system memory usage reached 80%
+2026-10-28 05:44:38      current system memory usage reached 80%
+2026-10-28 05:44:35      current system memory usage reached 80%
+2026-10-28 05:45:20      current system memory usage reached 80%
+
+2026-10-28 05:44:58      *** Warning ***  current system memory usage reached 85% (14 GB)
+
+
+2026-10-28 05:46:54   Boundary conditions: 
+
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+
+                        Xmin: open, 4 Layer, depth 0.199643 um
+                        Xmax: open, 4 Layer, depth 0.199657 um
+
+                        Ymin: periodic
+                        Ymax: periodic
+
+                        Zmin: open, 4 Layer, depth 0.2 um
+                        Zmax: expanded open, 4 Layer, depth 0.198717 um
+
+                        PML-Type: Convolution PML
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:46:54   Frequency settings: 
+
+                        Fmin:         149.9
+                        Fmax:         299.8
+                        Nfsteps(lin): 1001
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:46:54   *** Warning ***
+
+2026-10-28 05:46:54   When exciting with a plane wave the material at the open boundaries has to be homogeneous.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:46:55   Field update statistics:
+
+                        Number of components in total: 	55433018
+                        Number of disp. elements:		2382997
+
+                      Subcycling state:      			Automatically deactivated
+
+                      ------------------------------------------------------------------------------
+2026-10-28 05:46:55   *** Warning ***
+
+2026-10-28 05:46:55   Dispersive materials are not supported at open boundary. This may lead to inaccurate results. Locations(s): xmin xmax
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:28   
+                      --------------------------------------------------------------------------------
+2026-10-28 06:00:28   Steady state energy criterion met, solver finished successfully.
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:28   Frequency domain results normalized to default signal.
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:28   
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     16788                         4578112      4578112      
+                        Matrices calc.      1638156                       4572265      2902343      
+                        Solver run total    1363368                       4591524      2985116      
+                        ----------------------------------------------------------------------------
+
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+
+                        Hardware:
+                           Computer name:                 	Tole 
+
+                           Number of CPU threads:               6
+                           Hardware info:                  	Hardware Accelerator Device not activated
+
+                        Number of mesh cells:             	9154080
+                        Excitation duration:              	4.87181612e+001 fs 
+                        Calculation time for excitation:  	0 	s
+                        Number of calculated pulse widths:	2.31538 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	10404 
+                        Maximum number of time steps:     	89868 
+                        Time step width:
+                           without subcycles:             	1.084210576e-002 fs
+                           used:                          	1.084210576e-002 fs
+
+                        CAD preparation time:             	0      	s
+                        Matrix calculation time:          	170 	s
+                        Solver setup time:                	19 	s
+                        Solver loop time:                 	808 	s
+                        Solver post-processing time:      	2 	s
+                                                          	------------
+                        Total solver time:                	999 	s  ( = 0 h, 16 m, 39 s )
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:28   
+                        Total solver time (all cycles):      	999    	s  ( = 0 h, 16 m, 39 s )
+                        Solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	1001   	s  ( = 0 h, 16 m, 41 s )
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:28   Solver finished at: 2026-10-28 06:00:28 +0800
+
+
+
+                      ------------------------------------------------------------------------------
+2026-10-28 06:00:29   Creating parametric 1D results for Run ID 1
+
+                      ------------------------------------------------------------------------------

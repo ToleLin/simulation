@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\bars:bar_m_bot" id="1"/>
+    <Object name="Components\bars:bar_m_top" id="2"/>
+    <Object name="Components\bars:bar_p" id="3"/>
+    <Object name="Components\film:Au" id="4"/>
+    <Object name="Components\film:SiO2" id="5"/>
+    <Object name="Components\meshbox:box" id="6"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Isolators" type="Isolator" ID="1">
+      <Item name="Components\bars:bar_m_bot" type="solid" id="1"/>
+      <Item name="Components\bars:bar_m_top" type="solid" id="2"/>
+      <Item name="Components\bars:bar_p" type="solid" id="3"/>
+      <Item name="Components\film:Au" type="solid" id="4"/>
+      <Item name="Components\film:SiO2" type="solid" id="5"/>
+      <Item name="Components\meshbox:box" type="solid" id="6"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>

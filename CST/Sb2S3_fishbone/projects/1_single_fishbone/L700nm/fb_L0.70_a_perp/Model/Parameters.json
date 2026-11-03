@@ -1,0 +1,45 @@
+{
+    "parameters": [
+        {
+            "expr": "0.7",
+            "name": "L",
+            "value": "0.7"
+        },
+        {
+            "expr": "0.24",
+            "name": "W",
+            "value": "0.24"
+        },
+        {
+            "expr": "0.2",
+            "name": "T",
+            "value": "0.2"
+        },
+        {
+            "expr": "1.5433",
+            "name": "lam_spp",
+            "value": "1.5433"
+        },
+        {
+            "expr": "lam_spp/2",
+            "name": "p",
+            "value": "0.77165"
+        },
+        {
+            "expr": "lam_spp/4",
+            "name": "dx",
+            "value": "0.385825"
+        },
+        {
+            "expr": "0.70710678",
+            "name": "pol_x",
+            "value": "0.70710678"
+        },
+        {
+            "expr": "-0.70710678",
+            "name": "pol_y",
+            "value": "-0.70710678"
+        }
+    ],
+    "version": 1
+}
